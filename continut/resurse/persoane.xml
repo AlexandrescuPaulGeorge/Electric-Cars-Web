@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persoane xmlns="http://www.w3schools.com/RedsDevils"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.w3schools.com/RedsDevils persoane.xsd">
+
+    <persoana id="1">
+        <nume>Popescu</nume>
+        <prenume>Ion</prenume>
+        <varsta>25</varsta>
+        <adresa>
+            <strada>Dragos Voda</strada>
+            <numar>3</numar>
+            <localitate>Radauti</localitate>
+            <judet>Suceava</judet>
+            <tara>Romania</tara>
+        </adresa>
+        <gen>Masculin</gen>
+        <educatie>
+            <liceu>Eudoxiu Hurmuzachi </liceu>
+            <facultate>Facultatea de Automatica si Calculatoare Iasi</facultate>
+        </educatie>
+    </persoana>
+
+    <persoana id="2">
+        <nume>Herdes</nume>
+        <prenume>Bogdan</prenume>
+        <varsta>29</varsta>
+        <adresa>
+            <strada>Bulevardul Nicolae Iorga</strada>
+            <numar>2A</numar>
+            <localitate>Iasi</localitate>
+            <judet>Iasi</judet>
+            <tara>Romania</tara>
+        </adresa>
+        <gen>Masculin</gen>
+        <educatie>
+            <liceu>Colegiul National Iasi </liceu>
+            <facultate>Facultatea de Arhitectura Iasi</facultate>
+        </educatie>
+    </persoana>
+
+    <persoana id="3">
+        <nume>Ciobanu</nume>
+        <prenume>Elena</prenume>
+        <varsta>26</varsta>
+        <adresa>
+            <strada>Bulevardul Independentei</strada>
+            <numar>55A</numar>
+            <localitate>Iasi</localitate>
+            <judet>Iasi</judet>
+            <tara>Romania</tara>
+        </adresa>
+        <gen>Feminin</gen>
+        <educatie>
+            <liceu>Colegiul Emil Racovita Iasi </liceu>
+            <facultate>Universitatea de Medicina si Farmacie Iasi</facultate>
+        </educatie>
+    </persoana>
+
+</persoane>
